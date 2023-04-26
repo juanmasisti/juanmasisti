@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://drive.google.com/uc?export=view&id=1NLQK9edrqEViF87WO50NolZvqEMLapuX&rl"/>
+  <img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ojYbOqWG-DzuxzvM17lwq1vKAhVkBhPKDO2Hx5RieVl2SKdoEw26qgPz90-BrzAPEwZHPP-c77rxgC7nsiIEz3FkeBEg=s2560"/>
 </p>
 
 <h4 align="center">Soy Juan Manuel Sisti, estudiante de "Licenciatura en Sistemas" en la UNLP </h4>
@@ -47,6 +47,6 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ationno&langs_count=10&theme=dark&layout=compact" alt="ationno :: Top Lenguajes" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmasisti&langs_count=10&theme=dark&layout=compact" alt="juanmasisti :: Top Lenguajes" /></p>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=ationno&show_icons=true&theme=dark" alt="ationno :: Profile Stats" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=juanmasisti&show_icons=true&theme=dark" alt="juanmasisti :: Profile Stats" /></p>
