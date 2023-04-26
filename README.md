@@ -3,15 +3,15 @@
   <img align="center" src="https://drive.google.com/uc?export=view&id=1NLQK9edrqEViF87WO50NolZvqEMLapuX&rl"/>
 </p>
 
-<h4 align="center">Soy Antonio Glorioso, estudiante de "Licenciatura en Informatica" en la UNLP </h4>
+<h4 align="center">Soy Juan Manuel Sisti, estudiante de "Licenciatura en Sisti" en la UNLP </h4>
 
 - 🌱 Actualmente estoy aprendiendo **Angular y Python**
 
-- 📫 Informacion de contacto **antonioglorioso1@hotmail.com**
+- 📫 Informacion de contacto **sistijuanmanuel@gmail.com**
 
 <h3 align="center">Me podes encontrar en:</h3>
 <p align="center">
-<a href="https://www.instagram.com/antofel1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ationno" height="30" width="40" /></a>
+<a href="https://www.instagram.com/juanmasisti_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanmasisti" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguajes y Herramientas:</h3>
@@ -47,6 +47,3 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ationno&langs_count=10&theme=dark&layout=compact" alt="ationno :: Top Lenguajes" /></p>
-
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=ationno&show_icons=true&theme=dark" alt="ationno :: Profile Stats" /></p>
