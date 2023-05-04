@@ -3,7 +3,7 @@
   <img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ojYbOqWG-DzuxzvM17lwq1vKAhVkBhPKDO2Hx5RieVl2SKdoEw26qgPz90-BrzAPEwZHPP-c77rxgC7nsiIEz3FkeBEg=s2560"/>
 </p>
 
-<h4 align="center">Soy Juan Manuel Sisti, estudiante de "Licenciatura en Sistemas" en la UNLP </h4>
+<h4 align="center">Soy Juan Manuel Sisti, estudiante de Licenciatura en Sistemas en la UNLP. </h4>
 
 - 📒 Actualmente estoy aprendiendo **Angular y Python**
 
