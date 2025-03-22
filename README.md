@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ojYbOqWG-DzuxzvM17lwq1vKAhVkBhPKDO2Hx5RieVl2SKdoEw26qgPz90-BrzAPEwZHPP-c77rxgC7nsiIEz3FkeBEg=s2560](https://i.postimg.cc/Z51y8Z84/DALL-E-2025-03-22-00-44-35-Aesthetic-illustration-of-a-cat-wearing-glasses-and-sitting-in-front-of.webp)"/>
+  <img align="center" src="https://i.postimg.cc/Z51y8Z84/DALL-E-2025-03-22-00-44-35-Aesthetic-illustration-of-a-cat-wearing-glasses-and-sitting-in-front-of.webp">
 </p>
 
 <h4 align="center">Soy Juan Manuel Sisti, programador fullstack y estudiante de Licenciatura en Sistemas en la UNLP. </h4>
