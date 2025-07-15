@@ -4,18 +4,18 @@
     <img src="https://streak-stats.demolab.com?user=juanmasisti&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun,Sat&card_width=467"/>
 </div>
 
-## 📌 Web & Mobile Developer | Estudiante de Lic. en Sistemas (UNLP)
+## Web & Mobile Developer | Estudiante de Lic. en Sistemas (UNLP)
 
 - 📒 Actualmente trabajando con **Angular, Ionic, Node.js** en proyectos fullstack y mobile.
 
-## ✨ About Me
+## About Me
 
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
 - 💡 Me interesa la programación clean code y el desarrollo ágil.
 - 🤝 Disfruto trabajar en equipo y compartir conocimiento.
 - 🎯 Enfocado en crecer profesionalmente y aportar valor en cada proyecto.
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanmasisti&show_icons=true&theme=dark" alt="juanmasisti :: Profile Stats"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact 📫
 
 <div align="center">
   <a href="mailto:sistijuanmanuel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
